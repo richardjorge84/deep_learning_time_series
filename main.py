@@ -1,4 +1,4 @@
-# Multilayer Perceptron to Predict Time series data  (t+1, given t)
+# Multilayer Perceptron to Predict Time series data  (t+1, given t), Jorge Richard/2018.
 import numpy
 # To plot the charts
 import matplotlib.pyplot as plt
