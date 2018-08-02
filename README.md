@@ -1,2 +1,2 @@
 # deep_learning_time_series
-This is an example of a deep learning algorithm
+This code is a basic approach to fit time series values with deep learning.
